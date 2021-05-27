@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,SAAS,EAAE,IAAI;CAAG;;AAEpB,AAAA,MAAM,CAAC;EACL,UAAU,EAAE,OAAO;CAAG;;AAExB,AAAA,YAAY,CAAC;EACX,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,IAAI;CAAG;;AAEhB,AAAA,aAAa,CAAC;EACZ,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,IAAI;CAAG",
+    "sources": [
+        "ckeditor.sass"
+    ],
+    "names": [],
+    "file": "ckeditor.css"
+}

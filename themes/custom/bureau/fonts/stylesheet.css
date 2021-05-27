@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'DIN Next CYR';
+    src: url('DINNextCYR-Bold.woff2') format('woff2'),
+        url('DINNextCYR-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next CYR';
+    src: url('DINNextCYR-Regular.woff2') format('woff2'),
+        url('DINNextCYR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

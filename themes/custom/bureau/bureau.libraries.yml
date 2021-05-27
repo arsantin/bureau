@@ -1,0 +1,15 @@
+bureau-style:
+  css:
+    theme:
+      css/styles.css: {}    
+      css/ckeditor.css: {}
+  js:
+    js/fixed-nav-master/fastclick.js: {}
+    js/fixed-nav-master/scroll.js: {}
+    js/fixed-nav-master/fixed-responsive-nav.js: {}
+    js/jquery.mask.min.js: {}
+    js/script.js: {}
+  roboto:
+    css:
+      theme:
+        '//https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet': {external: true}

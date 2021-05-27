@@ -1,0 +1,14 @@
+name: Bureau Veritas
+description: "Tema do Bureau Veritas"
+type: theme
+core: 8.x
+screenshot: screenshhhhot.png
+
+libraries:
+  - bureau/global-css
+  - bureau/bureau-style
+  - bureau/roboto
+
+ckeditor_stylesheets:
+  - css/ckeditor.css
+core_version_requirement: ^8 || ^9
